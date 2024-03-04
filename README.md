@@ -14,6 +14,8 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 
 ## Question ouverte
 
-Représentez la même association avec la notation UML « petit losange » 
+Représentez la même association avec la notation UML « petit losange »
+![Rendu](rendu/diagramme.svg)
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
+On perd l'information que la relation principale est entre professeur et discipline et qu'à cette relation, on vient ajouter une information qui est le cours.
